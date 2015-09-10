@@ -1,6 +1,7 @@
 {
   "name": "bpg-banner-supersquare",
-  "description": "BPG Banner SuperSquare Web Font",
+  "description": "BPG Banner SuperSquare Web-Font Package",
+  "version": "1.0.0",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-banner-supersquare"],
   "main": [
     "css/bpg-banner-supersquare.css"
@@ -13,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/web-fonts/bpg-banner-supersquare.git"
   },
-  "license": "MIT",
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
   "ignore": [
     "**/.*",
     "node_modules",
